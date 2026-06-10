@@ -1,0 +1,7 @@
+*.cdslck
+*.lck
+psf/
+simulation/
+*.log
+*.out
+.DS_Store
